@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi Im Craig and Im learning front end at the moment
